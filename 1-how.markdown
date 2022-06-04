@@ -2,7 +2,6 @@
 layout: page
 title: How
 permalink: /how/
-excerpt: "TEST"
 ---
 
 # How Will We Get There?

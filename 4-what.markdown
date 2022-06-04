@@ -2,7 +2,6 @@
 layout: page
 title: What
 permalink: /what/
-excerpt: "TEST"
 ---
 
 # What Should We Do?

@@ -2,7 +2,6 @@
 layout: page
 title: Where
 permalink: /where/
-excerpt: "TEST"
 ---
 
 # Where Should We Stay?

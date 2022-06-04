@@ -2,7 +2,6 @@
 layout: page
 title: Conclusion
 permalink: /conclusion/
-excerpt: "TEST"
 ---
 
 # Conclusion

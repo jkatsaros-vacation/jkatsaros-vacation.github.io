@@ -2,7 +2,6 @@
 layout: page
 title: When
 permalink: /when/
-excerpt: "TEST"
 ---
 
 # When Should We Go?

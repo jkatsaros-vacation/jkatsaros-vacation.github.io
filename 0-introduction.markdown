@@ -2,7 +2,6 @@
 layout: page
 title: Introduction
 permalink: /introduction/
-excerpt: "TEST"
 ---
 
 # Introduction
