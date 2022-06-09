@@ -256,18 +256,28 @@ The Skyliner's EPCOT station also puts its location approximately close to:
 
 ## <span style="color:red">Personal Opinions:</span>
 
-According to data collected by [Touring Plans](https://touringplans.com/walt-disney-world/hotels), Disney World goers are happiest when they choose Disney Deluxe Resorts over their other counterparts for a variety of reasons. I feel like monorail access is a great selling point for these hotels, as it better enables park hopping and Magic Hour usage and allows for easier and longer down times in between attractions and other appointments.
+Disney World resorts are typically broken down into three categories:
+- Deluxe
+- Moderate
+- Value
 
-For example, each trip utilizing the monorail takes about 10 to 15 minutes; 5 minutes of waiting at the monorail station, either at the park or at the hotel, then 5 to 10 minutes of travelling. In contrast, each trip taking the bus sometimes takes about a half hour to an hour one way. Buses are often full, and there are times where filled buses come and go without accepting any new passengers, causing you to wait for a second or third bus.
+These categories indicate not only their general cost but also their included amenities and transportation options.
 
-This seems to me a particularly large consideration for something like nap time. Staying at a monorail resort allows for flexibility to take nap time(s) throughout the day in an instant, whereas other resorts require some amount of anticipation when it comes to naps, and they might not be as easily taken.
+Obviously, the list of hotels above is not comprehensive, but I just wanted to list off a couple that I thought were interesting. I also didn't include any moderate hotels since the research I've done shows that, generally speaking, people gravitate towards either the Deluxe or the Value resorts at Disney World.
+
+The Dave's Vacation Club Rentals is an interesting option because it allows us to stay at Disney World time-share properties without being a member of the Disney Vacation Club. The Disney Vacation Club is a Disney program that allows people to buy into a points system. Disney Vacation Club members can bank up to three years worth of points to then spend them on whatever hotel they want on their next Disney vacation. Disney Vacation Club members have a "home resort", which just means they get more points towards that particular resort per year. Disney Vacation Club is a yearly expense, and you're committed to being a member for a certain time frame. That's where Dave's Vacation Club Rentals comes in. Often times, Disney Vacation Club members can't make their way to Disney in a certain year, or they want to try to off-set the costs of the Disney Vacation Club. This gives Disney Vacation Club members the opportunity to sell their points through third-party companies, like Dave's Vacation Club Rental. Disney Vacation Club hotels are different buildings on the same campus as the major Disney hotels and are often villas that can accomodate many travellers. While these villas are more expensive, the idea is that we could split the villa cost between each couple that's going on this vacation to Disney World. Some villas are bigger than others, with more bedrooms and bathrooms. Grace and I had a great experience with Dave's Vacation Club rentals for our honeymoon. They were easy to work with, and we got our pick of the resorts to stay at.
+
+The transportation times above are a combination of data collected from Touring Plans and estimates based on my personal experience. While Deluxe resorts are more expensive per night, overall I've found the expense worth it, as the Deluxe resorts are typically on the monorail. The monorail has the shortest wait times and transportation times to and from the parks, which gives you flexibility for breaks throughout the day, allows you to change into new clothes for dinner (if you so choose), park hop (if that's something you're looking for), and so on. Being in a Deluxe resort puts you closer to the parks and all the activities, like restaurants, that you went to Disney World for. Sometimes, you can even enjoy a fireworks display from your hotel window. While I haven't stayed at a Value resort, I do have experience with the primary transportation method of Value resorts: buses. Based on my experience, buses are often late, full, and take a long time to get to where you're going. Definitely a frustrating ordeal, especially when you're trying to get somewhere quickly. To compare the two options, each trip utilizing the monorail takes about 10 to 15 minutes; 5 minutes of waiting at the monorail station, either at the park or at the hotel, then 5 to 10 minutes of travelling. In contrast, each trip taking the bus sometimes takes about a half hour to an hour one way. Buses are often full, and there are times where filled buses come and go without accepting any new passengers, causing you to wait for a second or third bus.
+
+To summarize, this seems to me a particularly large consideration for something like nap time. Staying at a monorail resort allows for flexibility to take nap time(s) throughout the day in an instant, whereas other resorts require some amount of anticipation when it comes to naps, and they might not be as easily taken.
 
 ## <span style="color:blue">Helpful Considerations:</span>
 
 - The monorail is the fastest transportation option, but is accessible by the least amount of hotels.
 - Value resorts have access to the least amount of transportation options, which contribute to long wait times and travel times in between parks and hotels.
+- Disney Vacation Club resorts might be an interesting option if we don't mind sharing a space with each other.
+- Moderate resorts were not listed on this page.
 - Magic Kingdom can be accessed by:
-
   - Monorail
   - Boat
   - Bus
